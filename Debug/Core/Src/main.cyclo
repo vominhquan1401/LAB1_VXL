@@ -1,0 +1,17 @@
+../Core/Src/main.c:67:6:exercise1	1
+../Core/Src/main.c:72:6:exercise2	4
+../Core/Src/main.c:93:6:set_light	4
+../Core/Src/main.c:107:6:led_off	1
+../Core/Src/main.c:120:6:exercise3	8
+../Core/Src/main.c:154:6:display7SEG	11
+../Core/Src/main.c:213:6:exercise5	5
+../Core/Src/main.c:244:6:exercise6	1
+../Core/Src/main.c:250:6:clearAllClock	1
+../Core/Src/main.c:256:6:setNumberOnClock	13
+../Core/Src/main.c:298:6:exercis9	13
+../Core/Src/main.c:340:6:exercis10	10
+../Core/Src/main.c:381:5:main	1
+../Core/Src/main.c:430:6:SystemClock_Config	3
+../Core/Src/main.c:469:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:502:13:MX_GPIO_Init	1
+../Core/Src/main.c:558:6:Error_Handler	1
